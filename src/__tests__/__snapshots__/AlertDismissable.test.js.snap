@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Alert is rendered correctly 1`] = `
+<div
+  aria-expanded={null}
+  bsStyle="info"
+  className="fade collapse show alert show"
+  role="alert"
+>
+  <h4>
+    Error
+  </h4>
+  <p>
+    Unexpected error
+    ;
+  </p>
+  <div>
+    <p>
+      This is an extra component that will be rendered
+    </p>
+  </div>
+  <p>
+    <button
+      className="btn btn-primary"
+      disabled={false}
+      type="button"
+    >
+      Close
+    </button>
+  </p>
+</div>
+`;

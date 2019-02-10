@@ -1,0 +1,2 @@
+export const DISMISS_MESSAGE = 'DISMISS_MESSAGE';
+export const ADD_MESSAGE = 'ADD_MESSAGE';
